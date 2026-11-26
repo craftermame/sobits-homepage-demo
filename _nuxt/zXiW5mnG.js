@@ -1,0 +1,2 @@
+//# allFunctionsCalledOnLoad
+import{S as e,T as t,U as n,j as r,x as i,y as a}from"#entry";import{a as o}from"./CV0Z9RXp.js";var s={class:`page-header`},c={class:`container`},l={class:`title`},u={key:0,class:`subtitle`},d=Object.assign(o(t({__name:`PageHeader`,props:{title:{},subtitle:{}},setup(t){return(o,d)=>(r(),e(`header`,s,[a(`div`,c,[a(`h1`,l,n(t.title),1),t.subtitle?(r(),e(`p`,u,n(t.subtitle),1)):i(``,!0)])]))}}),[[`__scopeId`,`data-v-086429b2`]]),{__name:`PageHeader`});export{d as t};

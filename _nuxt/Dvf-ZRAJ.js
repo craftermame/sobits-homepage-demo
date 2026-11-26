@@ -1,0 +1,2 @@
+//# allFunctionsCalledOnLoad
+import{S as e,T as t,j as n}from"#entry";import{a as r}from"./CV0Z9RXp.js";var i=[`src`,`title`],a=Object.assign(r(t({__name:`YouTubeVideo`,props:{id:{},title:{}},setup(t){return(r,a)=>(n(),e(`iframe`,{src:`https://www.youtube-nocookie.com/embed/${t.id}`,title:t.title,class:`youtube-video`,loading:`lazy`,allow:`encrypted-media; picture-in-picture`,allowfullscreen:``},null,8,i))}}),[[`__scopeId`,`data-v-7207ebbb`]]),{__name:`YouTubeVideo`});export{a as t};

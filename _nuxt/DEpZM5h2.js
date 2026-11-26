@@ -1,0 +1,2 @@
+//# allFunctionsCalledOnLoad
+import{A as e,k as t,z as n}from"#entry";function r(r,i=.3){let a=n(!1),o;return e(()=>{r.value&&(o=new IntersectionObserver(([e])=>{e?.isIntersecting&&(a.value=!0,o?.disconnect())},{threshold:i}),o.observe(r.value))}),t(()=>o?.disconnect()),a}export{r as t};

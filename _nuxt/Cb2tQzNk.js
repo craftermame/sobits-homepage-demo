@@ -1,0 +1,2 @@
+//# allFunctionsCalledOnLoad
+import{N as e,S as t,T as n,c as r,j as i,t as a,w as o,y as s}from"#entry";import{a as c,i as l,n as u,t as d}from"./CV0Z9RXp.js";var f={class:`layout`},p={class:`main`},m=c(n({__name:`default`,setup(n){let c=a();return r(()=>({htmlAttrs:{lang:c.value.htmlAttrs.lang},link:c.value.link,meta:c.value.meta})),(n,r)=>(i(),t(`div`,f,[o(l),s(`main`,p,[e(n.$slots,`default`,{},void 0,!0)]),o(u),o(d)]))}}),[[`__scopeId`,`data-v-cc8e7c33`]]);export{m as default};
